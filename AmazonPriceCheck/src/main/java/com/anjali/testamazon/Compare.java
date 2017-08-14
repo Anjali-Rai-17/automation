@@ -1,4 +1,4 @@
-package com.anjali;
+package com.anjali.testamazon;
 
 import java.util.Map;
 import java.util.Map.Entry;

@@ -1,4 +1,4 @@
-package com.anjali;
+package com.anjali.testamazon;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

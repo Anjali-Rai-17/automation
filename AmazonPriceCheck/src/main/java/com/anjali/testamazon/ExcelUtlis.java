@@ -1,4 +1,4 @@
-package com.anjali;
+package com.anjali.testamazon;
 
 import java.io.File;
 import java.io.FileInputStream;
